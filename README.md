@@ -1,1 +1,1 @@
-# Test_Game
+print("Cool")
